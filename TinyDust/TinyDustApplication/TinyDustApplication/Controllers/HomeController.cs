@@ -7,6 +7,8 @@ namespace TinyDustApplication.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            // TODO: I have more things need to do,
+            // Now, only for commit with Git.
             return View();
         }
     }

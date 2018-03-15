@@ -8,7 +8,7 @@ namespace TinyDustApplication.Models.Home
     public class IndexModel
     {
         /// <summary>
-        /// The title.
+        /// Gets or sets the title.
         /// </summary>
         public string Title { get; set; }
     }
