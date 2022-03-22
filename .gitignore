@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/TinyDust/TinyDustApplication/.vs/config/applicationhost.config
+/TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15/Server/sqlite3/storage.ide
+/TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15/Server/sqlite3/storage.ide-shm
+/TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15/Server/sqlite3
+/TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15
+/TinyDust/TinyDustApplication/TinyDustApplication/obj/Debug/TinyDustApplication.csprojAssemblyReference.cache
