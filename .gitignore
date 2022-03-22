@@ -8,3 +8,7 @@
 /TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15/Server/sqlite3
 /TinyDust/TinyDustApplication/.vs/TinyDustApplication/v15
 /TinyDust/TinyDustApplication/TinyDustApplication/obj/Debug/TinyDustApplication.csprojAssemblyReference.cache
+
+# Build results
+[Dd]ebug/
+[Bb]in/
